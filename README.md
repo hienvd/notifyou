@@ -1,6 +1,6 @@
 # notifyou #
 
-*Notifyou* is Notify to YOU
+*Notifyou* means Notify to YOU
 
 ### What is this repository for? ###
  
@@ -26,7 +26,7 @@ Suppose you already had Slack [Incoming Webhooks](https://api.slack.com/incoming
 
 Copy your Incoming Webhook elsewhere, your url will be in format `url = https://hooks.slack.com/services/xxx/yyy/zzzz`
 
-* require 'notify'
+* require 'notifyou'
 * Create an instance of Notifyou: `bot = Notifyou.new(url)`
 * Send message: `bot.notify("This is another text", "#general")`
 
