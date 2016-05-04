@@ -1,5 +1,7 @@
 # Notifyou
 
+[![Gem Version](https://badge.fury.io/rb/notifyou.svg)](https://badge.fury.io/rb/notifyou)
+
 *Notifyou* means Notify to YOU
 
 ### What is this repository for? ###
